@@ -21,6 +21,13 @@ Patterns and principles presented here are **framework/language agnostic**. Ther
 
 **12345678**
 **0_o**
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night
+
 ---
 
 - [Domain-Driven Hexagon](#domain-driven-hexagon)
